@@ -1,0 +1,17 @@
+# Directorios
+node_modules/
+dist/
+coverage/
+
+# Archivos de configuración
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Archivos de registro
+*.log
+
+# Dependiendo de tu entorno y herramientas, puedes agregar más patrones de archivos o directorios que desees ignorar.
+.idea
